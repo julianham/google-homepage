@@ -1,0 +1,1 @@
+This is a project to show the basics of html, css and how they work together in order to create a simple webpage
